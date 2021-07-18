@@ -1,10 +1,4 @@
-/**
- * Purpose:
- * will cover the following topices:
- * this, call/bind/apply
- */
-
-// this:
+// this examples:
 
 function a() {
   //   console.log(this);
